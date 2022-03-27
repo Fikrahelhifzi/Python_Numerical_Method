@@ -1,0 +1,27 @@
+Functions
+YouTube:
+30-minute introduction to functions: https://www.youtube.com/watch?v=u-OmVr_fT4s
+20-minute introduction to functions: https://www.youtube.com/watch?v=9Os0o3wzS_I
+
+
+Articles
+https://www.learnpython.org/en/Functions (some interactive exercises included)
+https://www.w3schools.com/python/python_functions.asp
+https://365datascience.com/tutorials/python-tutorials/python-functions/ (nice examples included)
+https://realpython.com/defining-your-own-python-function/
+https://realpython.com/python-return-statement/
+https://www.datacamp.com/community/tutorials/functions-python-tutorial
+
+Additional read:
+None Type:   https://www.educative.io/edpresso/what-is-the-none-keyword-in-python 
+                https://realpython.com/null-in-python/
+
+Objects and references in Python: 
+http://foobarnbaz.com/2012/07/08/understanding-python-variables/
+https://runestone.academy/runestone/books/published/thinkcspy/Lists/ObjectsandReferences.html
+
+Passing an object to function: https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/
+
+Asterisk operator: https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/
+
+Local and global scope in examples: https://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/scope_resolution_legb_rule.ipynb

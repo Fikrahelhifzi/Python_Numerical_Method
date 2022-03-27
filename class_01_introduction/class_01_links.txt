@@ -1,0 +1,28 @@
+------------
+Reading
+------------
+Recommended read:
+https://docs.python.org/3/tutorial/introduction.html
+https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-long-complex
+
+Allen B. Downey, "Think Python"
+Introduction: http://greenteapress.com/thinkpython2/html/thinkpython2002.html
+Variables: http://greenteapress.com/thinkpython2/html/thinkpython2003.html
+
+
+------------
+Python installation
+------------
+Python installation on your computer is recommended
+Recommended: Install Anaconda environment: https://www.anaconda.com/products/individual
+another option: Python installation + jupyter notebook installation (+optionally IDE like PyCharm)
+
+------------
+Online tools
+------------
+online interpreter:
+https://repl.it/languages/python3
+
+Jupyter Notebooks (online)
+cocalc.com (more JupyterNotebook like)
+Google Colab
